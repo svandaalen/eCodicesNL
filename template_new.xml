@@ -51,8 +51,9 @@
                         <textLang mainLang="" otherLangs=""></textLang>
                         <msItem>
                             <locus from="" to=""></locus>
-                            <author key="pnd_"></author>
+                            <author ref=""></author>
                             <title></title>
+                            <title type="alt"></title>
                             <filiation></filiation>
                             <note></note>
                             <rubric></rubric>
@@ -136,15 +137,13 @@
                         </adminInfo>
                         <listBibl>
                             <head></head>
-                            <bibl>
-                                <hi rend="small-caps"></hi>
-                            </bibl>
+                            <bibl></bibl>
                         </listBibl>
                     </additional>
                     <msPart xml:id="">
                         <msIdentifier>
                             <idno></idno>
-                            <note>
+                            <note> <!-- Deze tag is hier officieel niet toegestaan volgens het schema. -->
                                 <locus></locus>
                             </note>
                         </msIdentifier>
@@ -155,11 +154,12 @@
                         </head>
                         <msContents>
                             <summary></summary>
-                            <textLang mainLang="" otherLangs="">xxx</textLang>
+                            <textLang mainLang="" otherLangs=""></textLang>
                             <msItem>
                                 <locus from="" to=""></locus>
-                                <author key="pnd_"></author>
+                                <author ref=""></author>
                                 <title></title>
+                                <title type="alt"></title>
                                 <filiation></filiation>
                                 <note></note>
                                 <rubric></rubric>
@@ -209,13 +209,6 @@
                                 </decoNote>
                             </decoDesc>
                             <additions></additions>
-                            <bindingDesc>
-                                <binding notBefore="" notAfter="">
-                                    <p>
-                                        <date></date>
-                                    </p>
-                                </binding>
-                            </bindingDesc>
                             <accMat></accMat>
                         </physDesc>
                         <history>
