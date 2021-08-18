@@ -49,7 +49,7 @@
                     <msContents>
                         <summary></summary>
                         <textLang mainLang="" otherLangs=""></textLang>
-                        <msItem>
+                        <msItem class="">
                             <locus from="" to=""></locus>
                             <author ref=""></author>
                             <title></title>
@@ -155,7 +155,7 @@
                         <msContents>
                             <summary></summary>
                             <textLang mainLang="" otherLangs=""></textLang>
-                            <msItem>
+                            <msItem class="">
                                 <locus from="" to=""></locus>
                                 <author ref=""></author>
                                 <title></title>
