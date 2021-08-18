@@ -56,14 +56,14 @@
                             <title type="alt"></title>
                             <filiation></filiation>
                             <note></note>
-                            <rubric></rubric>
-                            <incipit>
+                            <rubric xml:lang=""></rubric>
+                            <incipit xml:lang="">
                                 <locus from=""></locus>
                             </incipit>
-                            <explicit>
+                            <explicit xml:lang="">
                                 <locus from=""></locus>
                             </explicit>
-                            <finalRubric></finalRubric>
+                            <finalRubric xml:lang=""></finalRubric>
                             <colophon xml:lang=""></colophon>
                             <textLang mainLang=""></textLang>
                         </msItem>
@@ -162,14 +162,14 @@
                                 <title type="alt"></title>
                                 <filiation></filiation>
                                 <note></note>
-                                <rubric></rubric>
-                                <incipit>
+                                <rubric xml:lang=""></rubric>
+                                <incipit xml:lang="">
                                     <locus from=""></locus>
                                 </incipit>
-                                <explicit>
+                                <explicit xml:lang="">
                                     <locus from=""></locus>
                                 </explicit>
-                                <finalRubric></finalRubric>
+                                <finalRubric xml:lang=""></finalRubric>
                                 <colophon xml:lang=""></colophon>
                                 <textLang mainLang=""></textLang>
                             </msItem>
