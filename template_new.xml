@@ -3,6 +3,7 @@
 	version="5.1"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/sebastiaan/Library/Mobile%20Documents/com~apple~CloudDocs/Huygens/eCodicesNL/tei-p5-e-codices_1.7.xsd"
 	xml:lang="eng"
 	xml:id=""
 	xml:base="">
